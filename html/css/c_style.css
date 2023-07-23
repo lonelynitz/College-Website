@@ -1,0 +1,41 @@
+header{
+    background-color: rgb(60, 121, 55);
+    padding: 10px;
+    text-align: right;
+    color: white;
+    box-shadow: 10px 10px 10px grey;
+}
+header ul li{
+    display: inline;
+    padding: 10px;
+    font-size: larger;
+    font-weight: bolder;
+}
+header ul li a{
+    text-decoration: none;
+    color: white;
+}
+.sports p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+    margin-left: 80px;
+}
+.sports img{
+    width: 200px;
+    margin-right: 40px;
+    margin-left: 60px;
+    padding: 10px;
+}
+.cultural p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+    margin-left: 80px;
+}
+.cultural img{
+    width: 200px;
+    margin-right: 40px;
+    margin-left: 60px;
+    padding: 10px;
+}

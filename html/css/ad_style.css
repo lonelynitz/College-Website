@@ -1,0 +1,56 @@
+header{
+    background-color: rgb(60, 121, 55);
+    padding: 10px;
+    text-align: right;
+    color: white;
+    box-shadow: 10px 10px 10px grey;
+}
+header ul li{
+    display: inline;
+    padding: 10px;
+    font-size: larger;
+    font-weight: bolder;
+}
+header ul li a{
+    text-decoration: none;
+    color: white;
+}
+.contain p {
+    text-align: justify;
+    background-color: rgba(0, 0, 0, 0.5); /* Black color with 50% opacity */
+    color: white;
+    margin-left: 40px;
+    margin-right: 20px;
+    width: 500px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    word-spacing: 5px;
+    position: relative;
+}
+
+.contain button{
+    position: absolute;
+    top: 150px;
+    right: 520px;
+    padding: 7px;
+    border-radius: 8px;
+    background-color: rgb(223, 173, 66);
+}
+.contain button:hover{
+    font-size: 17px;
+    transform: scale(1.2s);
+}
+.contain button a{
+    text-decoration: none;
+    color: white;
+}
+.contain h3{
+    position: absolute;
+    top: 90px;
+    right: 630px;
+}
+.contain .btn{
+    position: absolute;
+    top: 190px;
+    
+}

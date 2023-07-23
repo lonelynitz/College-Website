@@ -1,0 +1,27 @@
+header{
+    padding: 10px;
+    color: white;
+}
+header ul li{
+    display: inline;
+    padding: 10px;
+    font-size: larger;
+    font-weight: bolder;
+}
+header ul li a{
+    text-decoration: none;
+    color: white;
+}
+.login h2{
+    margin-top: 100px;
+}
+.login{
+    text-align: center;
+}
+.login button {
+    margin-left: 10px;
+}
+.login button a{
+    text-decoration: none;
+    color: black;
+}

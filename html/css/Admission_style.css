@@ -1,0 +1,23 @@
+body{
+    background-image: url(/html/img/page3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Form table{
+    text-align: center;
+    margin-top: 30px;
+}
+.Form h2{
+    margin-top: 30px;
+    text-align: center;
+}
+.Form h3,p{
+    text-align: center;
+}
+.Form table tr td{
+    padding: 3px;
+}
+.Form p button a{
+    text-decoration: none;
+    color: black;
+}
